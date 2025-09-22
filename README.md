@@ -2,20 +2,20 @@
 
 I'm **Winson**, a developer who loves building innovative projects and facing new challenges. 💡 Every project is an opportunity to learn, improve, and push boundaries.
 
-Currently, I'm diving deep into **Next.js** to enhance my full-stack development skills. 🌟
-
 ---
 
 #### ⚡ Technologies & Tools I Work With:
-- **JavaScript**, **React**, **React Native**, **TypeScript**
-- **Next.js**, **GraphQL**, **Apollo Client**
-- **PHP**, **HTML**, **CSS**
-- **Figma** (UI/UX Design)
+- **Frontend & Mobile:** JavaScript, TypeScript, React, React Native, Expo, Next.js  
+- **Backend & APIs:** GraphQL, Apollo Client, Convex, PHP  
+- **Auth & Cloud:** Clerk, NextAuth  
+- **UI/UX:** HTML, CSS, Figma
 
 ---
 
 #### 🌱 Currently Learning:
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- [![n8n](https://img.shields.io/badge/n8n-1d1d1d?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)  
+Exploring **workflow automation** with n8n to connect services and build no/low-code integrations.  
+
 
 ---
 
